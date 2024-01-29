@@ -21,6 +21,21 @@ The project aims to develop an effective method for detecting DDoS attacks using
 - **Development Environments:** Jupyter Notebook and PyCharm.
 - **Key Libraries:** pandas, scikit-learn, Matplotlib.
 
+## Installation and Setup
+
+Instructions on setting up the project environment and running the code.
+
+### Prerequisites
+
+- Python 3.x
+- Libraries: numpy, scikit-learn, pandas, Matplotlib.
+
+### Installation
+
+1. Clone the repository: `git clone https://github.com/buharialiyujhn/DDOS-Detection-Using-KMeans-Algorithm`
+2. Navigate to the project directory: `cd DDOS-Detection-Using-KMeans-Algorithm`
+3. Install required packages: `pip install -r requirements.txt`
+
 ## Data Collection and Preparation
 
 ### Dataset Description
