@@ -1,4 +1,4 @@
-# DDoS Detection Using K-Means Algorithms
+# DDoS Detection Using K-Means Algorithm
 
 This repository is part of my Master's thesis submitted to the Institut supérieur d’électronique de Paris (ISEP) under the supervision of Prof. Yousrah Chouchoub. It focuses on the implementation of the K-Means algorithm for detecting DDoS attacks, specifically SYN flood attacks, using network traffic data.
 
