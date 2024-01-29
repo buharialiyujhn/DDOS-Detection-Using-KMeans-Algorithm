@@ -141,10 +141,10 @@ Special thanks to Prof. Yousrah Chouchoub for her invaluable guidance and superv
 
 ## Contact
 
-- [Your Name]
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn profile]
+- Buhari Aliyu
+- Email: buharialiyujhn@gmail.com
+- LinkedIn: https://www.linkedin.com/in/buhari-aliyu-2b968159/
 
 ---
 
-© [Your Name], [Year]. All Rights Reserved.
+© Buhari Aliyu, 2024. All Rights Reserved.
